@@ -88,8 +88,6 @@ Streamlit app that lets users interact with datasets via natural language. Auto-
 
 `Python` `Streamlit` `LM Studio` `CodeLlama`
 
-[GitHub](https://github.com/AndrewRaj0510/Natural_Language_Data_Visualizer)
-
 ---
 
 Feel free to connect via Email, GitHub or LinkedIn. Thank you for visiting!
