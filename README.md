@@ -74,16 +74,12 @@ Browser-based stock prediction platform tracking 60+ stocks. Ingests daily marke
 
 `Next.js` `React` `TypeScript` `Python` `FastAPI` `DuckDB`
 
-[GitHub](https://github.com/AndrewRaj0510/Stock_Predictor)
-
 ---
 
 ### Code Review Assistant
 Full-stack app that uses a local LLM (Qwen3-4b-thinking) to review code in real time, an implementation of the AI-reviews-AI workflow. Next.js frontend, FastAPI backend.
 
 `Next.js` `FastAPI` `Python` `LM Studio` `Qwen3`
-
-[GitHub](https://github.com/AndrewRaj0510/Code_Review_Assistant)
 
 ---
 
@@ -96,18 +92,4 @@ Streamlit app that lets users interact with datasets via natural language. Auto-
 
 ---
 
-## GitHub Stats
-
-![Andrew's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewRaj0510&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewRaj0510&layout=compact&theme=github_dark&hide_border=true)
-
----
-
-## Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-andrew-raj-g.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrew-isaac-raj)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mail2airisaac@gmail.com)
-
-**Dubai, UAE** | Open to AI Engineer roles
+Feel free to connect via Email, GitHub or LinkedIn. Thank you for visiting!
