@@ -147,6 +147,8 @@ Autonomous multi-agent pipeline: a scraper agent ingests and LLM-scores 50+ RSS 
 
 `Python` `FastAPI` `Next.js` `OpenAI` `n8n` `AWS S3`
 
+[GitHub](https://github.com/AndrewRaj0510/Content_Creation_Agent)
+
 ---
 
 ### ClaimLens: Multimodal Insurance Claims Copilot
@@ -190,6 +192,8 @@ Retrieval-augmented generation system that answers natural language questions on
 
 `Python` `LangChain` `PostgreSQL` `pgvector` `Knowledge Graph`
 
+[GitHub](https://github.com/AndrewRaj0510/Employee_Performance_Reporting)
+
 ---
 
 ### Job Scraper Console
@@ -197,12 +201,16 @@ Browser-based console that scrapes job postings and client leads from Reddit, Li
 
 `Next.js` `FastAPI` `PostgreSQL` `AWS S3` `Apify`
 
+[GitHub](https://github.com/AndrewRaj0510/Job_Scraper_Console)
+
 ---
 
 ### Conversational AI
 A flight-intelligence assistant that combines live Google Flights pricing and FlightRadar24 data with grounded multi-turn chat, plus an embeddable WhatsApp-style chat widget with LLM intent classification and RAG answers.
 
 `OpenAI` `pgvector` `SerpApi` `Playwright`
+
+[GitHub](https://github.com/AndrewRaj0510/airrive.AI)
 
 ---
 
@@ -217,7 +225,6 @@ ML platform tracking 60 stocks with daily API ingestion, feature engineering, an
 
 ## More Projects
 
-- **[Hybrid RAG HR Analytics System](https://github.com/AndrewRaj0510/Employee_Performance_Reporting):** routes HR questions to PostgreSQL, ChromaDB, or a NetworkX knowledge graph, with a self-service upload pipeline that turns CSV and Excel files into queryable tables. `FastAPI` `PostgreSQL` `ChromaDB` `NetworkX` `Ollama`
 - **[AIRNotes](https://github.com/AndrewRaj0510/AIRNotes):** study assistant that runs on your own LLM, with streaming multi-turn chat, persistent conversation history, and file uploads. `Next.js` `FastAPI` `PostgreSQL` `Ollama`
 - **[Code Review Assistant](https://github.com/AndrewRaj0510/Code_Review_Assistant):** paste or upload code and get a review with issues and suggestions from a local LLM. `Next.js` `FastAPI` `Tailwind CSS` `Local LLM`
 - **[Natural Language Data Visualizer](https://github.com/AndrewRaj0510/Natural_Language_Data_Visualizer):** clean a dataset and create charts from plain-English prompts, running entirely on a local LLM. `Streamlit` `Pandas` `Seaborn` `Local LLM`
